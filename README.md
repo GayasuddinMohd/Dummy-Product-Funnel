@@ -27,12 +27,3 @@ This project demonstrates a **product funnel and feature usage analysis** for a 
 1. Install Python packages: `pandas`, `matplotlib`  
 ```bash
 pip install pandas matplotlib
-
-
-✅ This is **professional and recruiter-friendly**.  
-
----
-
-If you want, I can **also write the final full LaTeX resume code including this project**, so you just **copy-paste in Overleaf** and it’s ready for submission.  
-
-Do you want me to do that next?
