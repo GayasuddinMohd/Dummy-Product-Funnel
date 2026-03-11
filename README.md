@@ -3,7 +3,7 @@ Product funnel and feature analysis using Python
 
 # Product Funnel & Feature Analysis
 
-This project demonstrates a **product funnel and feature usage analysis** for a hypothetical product with 1,000 users. It is built using **Python (pandas, matplotlib)** and can be visualized using **Power BI**.  
+This project demonstrates a **product funnel and feature usage analysis** for a hypothetical product with 1,000 users. It is built using **Python (pandas, matplotlib)** and can be visualized using **matplotlib**.  
 
 ## Project Overview
 - Analyze user behavior across the product funnel: **Signup → Onboarding → First Purchase → Feature Use**
